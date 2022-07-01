@@ -3,14 +3,14 @@ title menu de prueba
 mode 110,45
 :inicio
 echo.
-echo-----------------------------------------
-echo-              BIENVENIDO               -
-echo-----------------------------------------
-echo- 1.- calculadora                       -
-echo- 2.- blog de notas                     -
-echo- 3.- google                            -
-echo- 4.- salir                             -
-echo-----------------------------------------
+echo -----------------------------------------
+echo -              BIENVENIDO               -
+echo -----------------------------------------
+echo - 1.- calculadora                       -
+echo - 2.- blog de notas                     -
+echo - 3.- YouTube                           -
+echo - 4.- salir                             -
+echo -----------------------------------------
 echo.
 echo.
 set /p menu=opcion=
